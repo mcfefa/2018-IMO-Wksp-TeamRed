@@ -4,4 +4,4 @@ Matlab code for the partial differential equation (PDE)-based model to explore m
 
 The PDE model is defined by: 
 
-![PDE model equations](https://github.com/mcfefa/2018-IMO-Wksp-TeamRed/blob/master/PDE-model/image1.pdf)
+![PDE model equations](https://github.com/mcfefa/2018-IMO-Wksp-TeamRed/blob/master/PDE-model/PDE-equations.png)
